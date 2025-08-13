@@ -1,2 +1,2 @@
 # AI
-Create story contents
+Create story
